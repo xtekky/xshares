@@ -9,7 +9,7 @@ Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 star = free
 ## Features
 ```js
   * Share botting (only unpatched version)
-  * Light Fas
+  * Light Fast
 ```
 
 ## Installation
