@@ -20,5 +20,9 @@ Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 stars = fre
   * Server: discord.gg/onlp
 ```
 
+## Demo
+
+https://user-images.githubusercontent.com/98614666/165008243-aca303e5-0737-4b05-a387-3a5cca477560.mp4
+
 ##  Credits:
  > [![](https://cdn.discordapp.com/avatars/719864492514738226/a_5de73a96793f9b0b3cbbafc2efc25ec7.gif?size=100)](https://github.com/xtekky) <br>Tekky © 2022 | ONLP™ - README.md design inspired from Wizz
