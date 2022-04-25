@@ -9,7 +9,7 @@
 
 
 
-#### Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 stars = free release
+#### Official Server ! [discord.gg/onlp](https://discord.gg/onlp) - 1000 stars = free release
 
 ## Features
 ```js
