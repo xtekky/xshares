@@ -1,10 +1,15 @@
 <h1 align="center">💎XSHARES [ONLY UNPATCHED VERSION]</h1>
 
 <p align='center'>
-  <b>Star ⭐ if you want more</b><br>
+  <b>⭐ if you want more
+  
+  
+  </b><br>
 </p>
 
-Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 stars = free release
+
+
+#### Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 stars = free release
 
 ## Features
 ```js
