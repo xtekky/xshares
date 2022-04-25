@@ -15,7 +15,7 @@ Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 stars = fre
 ## Where to Buy
 ```js
   * Discord: Tekky#9999
-  * Telegram: t.me/xtekkt
+  * Telegram: t.me/xtekky
   * Online: onlp.sellix.io
   * Server: discord.gg/onlp
 ```
