@@ -12,8 +12,10 @@ Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 star = free
   * Light Fast
 ```
 
-## Installation
+## Where to Buy
 ```js
-  * pip install requests
-  * pip install pystyle
+  * Discord: Tekky#9999
+  * Telegram: t.me/xtekkt
+  * Online: onlp.sellix.io
+  * Server: discord.gg/onlp
 ```
