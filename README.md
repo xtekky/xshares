@@ -19,3 +19,6 @@ Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 stars = fre
   * Online: onlp.sellix.io
   * Server: discord.gg/onlp
 ```
+
+##  Credits:
+ > [![](https://cdn.discordapp.com/avatars/719864492514738226/a_5de73a96793f9b0b3cbbafc2efc25ec7.gif?size=100)](https://github.com/xtekky) <br>Tekky © 2022 | ONLP™ - README.md design inspired from Wizz
