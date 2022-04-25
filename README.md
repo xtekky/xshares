@@ -4,7 +4,7 @@
   <b>Star ⭐ if you want more</b><br>
 </p>
 
-Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 star = free release
+Official Server ! [discord.gg/onlp](https://discord.gg/onlp) -  1000 stars = free release
 
 ## Features
 ```js
