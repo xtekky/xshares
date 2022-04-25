@@ -1,4 +1,4 @@
-<h1 align="center">💎XSHARES [ONLY UNPATCHED VERSION]</h1>
+<h1 align="center">💎XSHARES [UNDER MAINTENANCE]</h1>
 
 <p align='center'>
   <b>⭐ if you want more
